@@ -1,5 +1,3 @@
-Com base na sua descrição completa do ImobMatch, e removendo qualquer menção direta ao termo "MVP" ou "Produto Mínimo Viável", aqui está a versão do `README.md` focada na visão geral, módulos e tecnologias.
-
 ## 🏡 ImobMatch
 
 ## 🚀 Plataforma de Conexão Imobiliária Inteligente
